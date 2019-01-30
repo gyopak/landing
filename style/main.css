@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.particles-js-canvas-el {
+  position: absolute;
+}
+
+.welcome {
+  background: #121114;
+  text-align: center;
+  color: #C0C0C0;
+}
+
+.me {
+  background: #C0C0C0;
+  text-align: center;
+  color: #121114;
+}
+
+a {
+  color: #C0C0C0;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
